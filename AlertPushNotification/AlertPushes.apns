@@ -1,0 +1,13 @@
+{
+    "Simulator Target Bundle": "aswanth.AlertPushNotification",
+    "aps" : {
+        "alert" : {
+            "title" : "All Hands",
+            "body" : "Checking push-notif"
+        },
+        "sound" : "default",
+        "badge" : 10
+    },
+    "duration": "Current time",
+    "startedAt": "Meeting's started time"
+}
